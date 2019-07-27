@@ -22,7 +22,6 @@ function incrementVariable() {
 }
 
 function doWhileLoop (aNum) {
-  i = 0;
   do {
     console.log("I run once regardless.");
     // console.log(incrementVariable());
