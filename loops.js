@@ -29,3 +29,5 @@ function doWhileLoop (aNum) {
     // console.log(aNum);
   } while (`incrementVariable()` < aNum);
 }
+
+doWhileLoop(10);
